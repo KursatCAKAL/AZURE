@@ -7,10 +7,10 @@ Comparing With Azure
 ![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/1.jpg)
 .<br>
 .<br>
-![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/36.jpg)
+![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/36.png)
 .<br>
 .<br>
-![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/49.jpg)
+![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/49.png)
 .<br>
 .<br>
-![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/61.jpg)
+![alt text](https://github.com/KursatCAKAL/AZURE/blob/master/Compare%20Normal%20Hosts%20With%20Azure/61.png)
