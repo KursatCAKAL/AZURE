@@ -1,1 +1,9 @@
-
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_1.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_2.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_3.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_4.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_5.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_6.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_7.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_8.png">
+<img src="https://raw.githubusercontent.com/KursatCAKAL/AZURE/master/Azure%20Machine%20Learning/AML_9.png">
